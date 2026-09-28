@@ -1,0 +1,13 @@
+node_modules/
+.DS_Store
+.env
+.env.*
+!.env.example
+coverage/
+*.log
+.cloudflared/
+tunnel.json
+
+# Superseded local drafts and unused artwork; current content is in dist/lib/.
+docs/archive/
+dist/assets/xiaofan.png
