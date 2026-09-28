@@ -4,6 +4,8 @@
 
 在线演示：[fan.goumin.work](https://fan.goumin.work)
 
+项目原创代码以 [MIT 许可证](LICENSE) 开源。奶龙形象及第三方素材不在该许可证授权范围内，详见 [素材说明](docs/assets.md)。
+
 ## 有什么
 
 - 两段经典互动笑话：人生篇与“这件事，你能解决吗？”
